@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bring Fraktguiden\n"
+"POT-Creation-Date: 2016-05-03 16:15+0200\n"
+"PO-Revision-Date: 2016-05-03 16:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../classes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-wc-shipping-method-bring.php:41 class-wc-shipping-method-bring.php:156
+msgid "Bring Fraktguiden"
+msgstr "Bring Fraktguiden"
+
+#: class-wc-shipping-method-bring.php:147
+msgid "Enable"
+msgstr "Aktiver"
+
+#: class-wc-shipping-method-bring.php:149
+msgid "Enable Bring Fraktguiden"
+msgstr "Aktiver Bring Fraktguiden"
+
+#: class-wc-shipping-method-bring.php:153
+msgid "Title"
+msgstr "Tittel"
+
+#: class-wc-shipping-method-bring.php:155
+msgid "This controls the title which the user sees during checkout."
+msgstr "Dette er tittelen som brukeren ser i kassen."
+
+#: class-wc-shipping-method-bring.php:159
+msgid "Delivery Fee"
+msgstr "Leveringsgebyr"
+
+#: class-wc-shipping-method-bring.php:161
+msgid ""
+"What fee do you want to charge for Bring, disregarded if you choose free. "
+"Leave blank to disable."
+msgstr ""
+"Gebyr du ønsker å ta betalt for Bring. Blir ignorert dersom du velger "
+"gratis. La stå tomt for å deaktivere."
+
+#: class-wc-shipping-method-bring.php:165
+msgid "Post office"
+msgstr "Postkontor"
+
+#: class-wc-shipping-method-bring.php:167
+msgid "Shipping from post office"
+msgstr "Leveres fra postkontor"
+
+#: class-wc-shipping-method-bring.php:168
+msgid ""
+"Flag that tells whether the parcel is delivered at a post office when it is "
+"shipped."
+msgstr "Kryss av om pakken blir levert til et postkontor ved sending."
+
+#: class-wc-shipping-method-bring.php:172
+msgid "From country"
+msgstr "Fra land"
+
+#: class-wc-shipping-method-bring.php:174
+msgid ""
+"This is the country of origin where you deliver from (If omitted "
+"WooCommerce's default location will be used. See WooCommerce - Settings - "
+"General)"
+msgstr ""
+"Dette er landet du sender fra (hvis ikke valgt benyttes WooCommerce sin "
+"standard lokasjon. Se WooCommerce - Innstillinger - Generelt)"
+
+#: class-wc-shipping-method-bring.php:181
+msgid "From zip"
+msgstr "Fra postnummer"
+
+#: class-wc-shipping-method-bring.php:183
+msgid ""
+"This is the zip code of where you deliver from. For example, the post "
+"office. Should be 4 digits."
+msgstr ""
+"Dette er postnummeret hvor du leverer fra. For eksempel postkontoret. Må "
+"være 4 siffer."
+
+#: class-wc-shipping-method-bring.php:187
+msgid "Display price"
+msgstr "Visningspris"
+
+#: class-wc-shipping-method-bring.php:189
+msgid "How to calculate delivery charges"
+msgstr "Hvordan leveringskostnader blir kalkulert"
+
+#: class-wc-shipping-method-bring.php:192
+msgid "VAT included"
+msgstr "Med mva."
+
+#: class-wc-shipping-method-bring.php:193
+msgid "VAT excluded"
+msgstr "Uten mva."
+
+#: class-wc-shipping-method-bring.php:197
+msgid "Recipient notification"
+msgstr "Mottakervarsling"
+
+#: class-wc-shipping-method-bring.php:199
+msgid "Recipient notification over SMS or E-Mail"
+msgstr "Mottakervarsling på SMS eller Epost"
+
+#: class-wc-shipping-method-bring.php:200
+msgid ""
+"If not checked, Fraktguiden will add a fee for paper based recipient "
+"notification.<br/>If checked, the recipient will receive notification over "
+"SMS or E-mail when the parcel has arrived.<br/>Applies to Bedriftspakke, "
+"Kliman&oslash;ytral Servicepakke and Bedriftspakke Ekspress-Over natten 09"
+msgstr ""
+"Hvis ikke krysset av vil Fraktguiden legge til et gebyr for papirbasert "
+"mottakervarsling.<br/>Hvis krysset av vil mottakeren motta varsling via SMS "
+"eller e-post når pakken har ankommet. Gjelder Bedriftspakke , Kliman&oslash;"
+"ytral Servicepakke og Bedriftspakke Ekspress-Over Natten 09"
+
+#: class-wc-shipping-method-bring.php:204
+msgid "Method availability"
+msgstr "Tilgjengelighet"
+
+#: class-wc-shipping-method-bring.php:209
+msgid "All allowed countries"
+msgstr "Alle tilatte land"
+
+#: class-wc-shipping-method-bring.php:210
+#: class-wc-shipping-method-bring.php:214
+msgid "Specific Countries"
+msgstr "Spesifikke land"
+
+#: class-wc-shipping-method-bring.php:222
+msgid "Services"
+msgstr "Tjenester"
+
+#: class-wc-shipping-method-bring.php:230
+msgid "Display Service As"
+msgstr "Vis tjeneste med"
+
+#: class-wc-shipping-method-bring.php:232
+msgid "The service name displayed to the customer"
+msgstr "Navnet på tjenesten som vises til kunden"
+
+#: class-wc-shipping-method-bring.php:235
+msgid "Display Name"
+msgstr "Visningsnavn"
+
+#: class-wc-shipping-method-bring.php:236
+msgid "Product Name"
+msgstr "Produktnavn"
+
+#: class-wc-shipping-method-bring.php:240
+msgid "Display Description"
+msgstr "Vis beskrivelse"
+
+#: class-wc-shipping-method-bring.php:242
+msgid "Add description after the service"
+msgstr "Legg til beskrivelse etter tjenesten"
+
+#: class-wc-shipping-method-bring.php:243
+msgid "Show service description after the name of the service"
+msgstr "Vis tjenestebeskrivelse etter navnet på tjenesten"
+
+#: class-wc-shipping-method-bring.php:247
+msgid "Max products"
+msgstr "Maks produkter"
+
+#: class-wc-shipping-method-bring.php:249
+msgid "Maximum of products in the cart before offering a flat rate"
+msgstr "Maks produkter som kan være i kassen før en tilbyr en fast sats"
+
+#: class-wc-shipping-method-bring.php:253
+msgid "Flat rate"
+msgstr "Fast sats"
+
+#: class-wc-shipping-method-bring.php:255
+msgid ""
+"Offer a flat rate if the cart reaches max products or a product in the cart "
+"does not have the required dimensions"
+msgstr ""
+"Tilby en fast sats hvis handlekurven har mer en maks produkter eller har et "
+"produkt som ikke har påkrevde dimensjoner"
+
+#: class-wc-shipping-method-bring.php:259
+msgid "Debug"
+msgstr "Debug"
+
+#: class-wc-shipping-method-bring.php:261
+msgid "Enable debug logs"
+msgstr "Aktiver debug-logging"
+
+#: class-wc-shipping-method-bring.php:262
+msgid "These logs will be saved in"
+msgstr "Loggene vil bli lagret i"
+
+#: class-wc-shipping-method-bring.php:286
+#, php-format
+msgid ""
+"Bring shipping method requires <strong>weight &amp; dimensions</strong> to "
+"be enabled. Please enable them on the <a href=\"%s\">Catalog tab</a>. <br/> "
+"In addition, Bring also requires the <strong>Norweigian Krone</strong> "
+"currency. Choose that from the <a href=\"%s\">General tab</a>"
+msgstr ""
+"Bring krever <strong>vekt &amp; dimensjoner</strong> for å kalkulere pris. "
+"Sørg for at dette er satt opp under <a href=\"%s\">Generellt fanen</a>. <br/"
+"> I tilegg, kreves det at <strong>Norske kroner</strong> er satt som valuta. "
+"Det kan velges fra <a href=\"%s\">Generellt fanen</a>"
+
+#~ msgid ""
+#~ "This is the country of where you deliver from (If omitted WooCommerce's "
+#~ "base location will be used. See WooCommerce - Settings - General)"
+#~ msgstr ""
+#~ "Dette er landet du sender fra (Hvis ikke valgt benyttes WooCommerce’s "
+#~ "base lokasjon. Se WooCommerce - Innstillinger - Generelt)"
+
+#~ msgid "This is the country of where you deliver from."
+#~ msgstr ""
+#~ "Landet hvor du sender fra (Hvis ikke valgt brukes Woo Commerce sin base "
+#~ "lokasjon som standard. Se Woo Commerce - innstillinger - generelt)"
+
+#~ msgid "These logs will be saved in <code>wc-logs/</code>"
+#~ msgstr "Loggen vil bli lagret i <code>wc-logs/</code>"
